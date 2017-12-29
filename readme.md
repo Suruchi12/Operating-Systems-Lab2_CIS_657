@@ -4,7 +4,7 @@
 #### CIS 657
 #### Lab 2
 
-####
+## Workings of the Project
 Implemented Peroxide.java
 IDE -IntelliJ
 Sample output :-output.txt
