@@ -1,4 +1,8 @@
-Lab-3
+# Creation of Peroxide in JNachos
+
+#### Operating Systems
+#### CIS 657
+#### Lab 2
 
 Implemented Peroxide.java
 IDE -IntelliJ
