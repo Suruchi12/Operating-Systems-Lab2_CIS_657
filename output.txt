@@ -1,0 +1,52 @@
+Seed: 10
+Copyright (c) 1992-1993 The Regents of the University of California.
+Entering JNachos v1.0
+Number of Hydrogen atoms ? 
+Number of Oxygen atoms ? 
+Peroxide Molecule made! Splash 
+Numbers Used: Hydrogen Atoms: 2, Oxygen Atoms: 2
+Numbers Left: Hydrogen Atoms: 8, Oxygen Atoms: 8
+O atom #1 used in making peroxide.
+Peroxide Molecule made! Splash 
+Numbers Used: Hydrogen Atoms: 4, Oxygen Atoms: 4
+Numbers Left: Hydrogen Atoms: 6, Oxygen Atoms: 6
+O atom #5 used in making peroxide.
+Peroxide Molecule made! Splash 
+Numbers Used: Hydrogen Atoms: 6, Oxygen Atoms: 6
+Numbers Left: Hydrogen Atoms: 4, Oxygen Atoms: 4
+O atom #7 used in making peroxide.
+O atom #8 making peroxide.
+O atom #0 making peroxide.
+H atom #1 making peroxide.
+H atom #3 making peroxide.
+Peroxide Molecule made! Splash 
+Numbers Used: Hydrogen Atoms: 8, Oxygen Atoms: 8
+Numbers Left: Hydrogen Atoms: 2, Oxygen Atoms: 2
+O atom #3 used in making peroxide.
+O atom #4 making peroxide.
+H atom #5 making peroxide.
+H atom #6 making peroxide.
+H atom #0 making peroxide.
+H atom #2 making peroxide.
+Peroxide Molecule made! Splash 
+O atom #2 making peroxide.
+H atom #7 making peroxide.
+H atom #9 making peroxide.
+H atom #4 making peroxide.
+H atom #8 making peroxide.
+Numbers Used: Hydrogen Atoms: 10, Oxygen Atoms: 10
+Numbers Left: Hydrogen Atoms: 0, Oxygen Atoms: 0
+O atom #9 used in making peroxide.
+O atom #6 making peroxide.
+No threads ready or runnable, and no pending interrupts.
+
+Assuming the program completed.
+
+Machine halting!
+
+
+Ticks: total 1617, idle 7, system 1610, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
